@@ -1,0 +1,5 @@
+1° Usar o (Nav) para criar a barra de navegação vertical do lado esquerdo da página.
+  *colocar o link para o conteúdo do texto.
+2° Usar o (Main) para fazer o conteúdo ser o principal da página.
+  *usar o (Section) para definir cada texto.
+3° Usar o (Article) para o assunto do texto.
